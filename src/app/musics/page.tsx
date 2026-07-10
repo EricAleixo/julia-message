@@ -2,9 +2,10 @@ import TrackList from "@/src/components/player/TrackList";
 import { Track } from "@/src/lib/store/player-store";
 
 async function getTracks(): Promise<Track[]> {
-  const res = await fetch(`http://localhost:3000/api/tracks`, {
-    cache: 'no-store', // ou 'force-cache' / revalidate, dependendo do seu caso
-  });
+
+  const res = await fetch(
+    `${process.env.APP_URL}/api/tracks`
+  );
 
   if (!res.ok) throw new Error('Falha ao buscar músicas');
 
