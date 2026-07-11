@@ -102,7 +102,7 @@ export default function LetterContent() {
 
         <Paragraph>
           Círculo rosa, né? Qual foi o nome que vocês escolheram? Só não
-          vale &ldquo;Rosas de Maria&rdquo; — esse já tá batido, viu?
+          vale &ldquo;Rosas de Maria&rdquo;, esse já tá batido, viu?
           Desenharam algum símbolo pro círculo? E como foi a apresentação
           de vocês? Desculpa a enxurrada de perguntas, mas é que dá muita
           vontade de saber tudo. Pode responder depois, com calma.
@@ -114,18 +114,18 @@ export default function LetterContent() {
           pensar já me dá vontade de rir. O pessoal da Boa Vontade te
           serviu bem? Se você está com pedra nos rins, deve ter ido um
           bocado ao banheiro (eu imagino). No meu EJC eu estava muito
-          apertado, e a equipe ainda fazia brincadeira — quase me fez
+          apertado, e a equipe ainda fazia brincadeira, quase me fez
           passar vergonha, mas foi uma piada tão boa que guardei com
           carinho até hoje. E o pessoal dos lanchinhos? Sempre engraçados,
           as cenas deles eram impagáveis.
         </Paragraph>
 
         <Paragraph>
-          Gostou dos Correios? Eles vivem mudando de lugar do nada — isso
-          me tirava do sério —, mas sempre entregam as cartas certinho. Você
-          já deve ter recebido um bocado. E, já que estamos falando nisso:
-          você também pode escrever! Separa um tempinho hoje e deixa uma
-          carta pronta pra amanhã. É só avisar: <Highlight>&ldquo;Aqui tem carta&rdquo;</Highlight>,
+          Gostou dos Correios? Eles vivem mudando de lugar do nada (isso
+          me tirava do sério), mas sempre entregam as cartas certinho.
+          Você já deve ter recebido um bocado. E, já que estamos falando
+          nisso: você também pode escrever! Separa um tempinho hoje e
+          deixa uma carta pronta pra amanhã. É só avisar: <Highlight>&ldquo;Aqui tem carta&rdquo;</Highlight>,
           que o Correio já vem buscar.
         </Paragraph>
 
@@ -135,7 +135,7 @@ export default function LetterContent() {
         </Paragraph>
 
         <Paragraph>
-          Está aproveitando cada momento? Passa rápido, viu — já é o
+          Está aproveitando cada momento? Passa rápido, viu. Já é o
           segundo dia, e amanhã é o último desses três. O fim dessa noite
           mexeu muito comigo no meu EJC.
         </Paragraph>
@@ -147,7 +147,7 @@ export default function LetterContent() {
       <LetterBlock tone="white">
         <Paragraph>
           Imagina só: andar como Cristo andou. Pedras, espinhos, gritos,
-          ódio. Tantos ferimentos — e por quê? Por que o justo precisou se
+          ódio. Tantos ferimentos, e por quê? Por que o justo precisou se
           sacrificar pelos injustos? Por que o puro precisou se sujar no
           lugar de quem estava sujo? Por que o amor foi tratado com tanto
           desprezo?
@@ -160,7 +160,7 @@ export default function LetterContent() {
         <Paragraph>
           Jesus nos ama independentemente do que fazemos. Para Ele, somos
           plenamente amados e inteiros. Tudo o que você está vivendo esses
-          dias não é um acaso — foi pensado especialmente para você.
+          dias não é um acaso: foi pensado especialmente para você.
         </Paragraph>
       </LetterBlock>
 
@@ -208,7 +208,7 @@ export default function LetterContent() {
         <LetterBlock tone="white">
           <Paragraph>
             Você não sairá daqui conhecida como Santa Maria Júlia de
-            Guarabira — mas vai sair com um redirecionamento real rumo à
+            Guarabira, mas vai sair com um redirecionamento real rumo à
             santidade. E isso é possível, sim. Depende da nossa batalha,
             dia após dia. Ao olhar para aquela cruz, perceba que ela não é
             um peso impossível de carregar, mas um caminho totalmente
